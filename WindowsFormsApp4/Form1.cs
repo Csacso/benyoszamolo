@@ -29,6 +29,7 @@ namespace WindowsFormsApp4
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //asdsadasdasd
             double költség;
             if (radioButton1.Checked) költség = Convert.ToDouble(textBox14.Text);
             else if (radioButton2.Checked) költség = Convert.ToDouble(textBox13.Text);
